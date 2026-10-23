@@ -1,7 +1,7 @@
 # wp-woo-bundles — Agent Operating Guide
 
 AGPL-3.0-or-later WordPress plugin (requires WooCommerce): product bundles for WooCommerce: fixed and optional items sold together.
-README.md is the contract. PHP rules: `/home/jameson/Source/ai-prompts/php.md`.
+README.md is the contract. PHP rules: SOP *Stack Standards → PHP*.
 
 ## Layout
 
